@@ -1,0 +1,31 @@
+<html>
+    <option value="MEXICO - SKIF AZTEKA">MEXICO - SKIF AZTEKA</option>
+    <option value="MEXICO - SKIF CENTAURO">MEXICO - SKIF CENTAURO</option>
+    <option value="MEXICO - SKIF CENTRAL CHIHUAHA">MEXICO - SKIF CENTRAL CHIHUAHUA</option>
+    <option value="MEXICO - SKIF CENTRAL OJINAGA">MEXICO - SKIF CENTRAL OJINAGA</option>
+    <option value="MEXICO - SKIF LARREA">MEXICO - SKIF LARREA</option>
+    <option value="MEXICO - SKIF LINCE">MEXICO - SKIF LINCE</option>
+    <option value="MEXICO - SKIF NANASE">MEXICO - SKIF NANASE</option>
+    <option value="MEXICO - SKIF SENSHI">MEXICO - SKIF SENSHI</option>
+    <option value="MEXICO - SKIF PUERTO VALLARTA">MEXICO - SKIF PUERTO VALLARTA</option>
+    <option value="MEXICO - SKIF ESPARZA">MEXICO - SKIF ESPARZA</option>
+    <option value="MEXICO - SKIF ISHIKAWA">MEXICO - SKIF ISHIKAWA</option>
+    <option value="MEXICO - SKIF NI YO KAN">MEXICO - SKIF NI YO KAN</option>
+    <option value="MEXICO - SKIF SEISHO KAI">MEXICO - SKIF SEISHO KAI</option>
+    <option value="MEXICO - SKIF SHOMEIKAN">MEXICO - SKIF SHOMEIKAN</option>
+    <option value="MEXICO - SKIF KIDOKAN">MEXICO - SKIF KIDOKAN</option>
+    <option value="MEXICO - SKIF EPATLAN">MEXICO - SKIF EPATLAN</option>
+    <option value="MEXICO - SKIF SEISHO KAI ARTEAGA">MEXICO - SKIF SEISHO KAI ARTEAGA</option>
+    <option value="MEXICO - SKIF SEISHO KAI TLACOTE BAJO">MEXICO - SKIF SEISHO KAI TLACOTE BAJO"</option>
+    <option value="MEXICO - SKIF SEISHO KAI TORA">MEXICO - SKIF SEISHO KAI TORA</option>
+    <option value="MEXICO - SKIF SEISHO KAI SISU">MEXICO - SKIF SEISHO KAI SISU</option>
+    <option value="MEXICO - SKIF TAMAZUN">MEXICO - SKIF TAMAZUN</option>
+    <option value="MEXICO - SKIF SONORA">MEXICO - SKIF SONORA</option>
+    <option value="MEXICO - SKIF SONKI-DO">MEXICO - SKIF SONKI-DO</option>
+    <option value="MEXICO - SKIF GUITIERREZ ZAMORA">MEXICO - SKIF GUITIERREZ ZAMORA</option>
+    <option value="MEXICO - SKIF SUEKO CARRIZAL">MEXICO - SKIF SUEKO CARRIZAL</option>
+    <option value="MEXICO - SKIF TAIYO PAPANTLA">MEXICO - SKIF TAIYO PAPANTLA</option>
+    <option value="MEXICO - SKIF KENKYO XALAPA">MEXICO - SKIF KENKYO XALAPA</option>
+    <option value="MEXICO - SKIF SHOKUKAN">MEXICO - SKIF SHOKUKAN</option>
+    <option value="MEXICO - SKIF MERIDA">MEXICO - SKIF MERIDA</option>
+</html>
